@@ -15,7 +15,7 @@
 |-|:-------:|
 |🖥️ Vendor/Model|Dell Latitute 3400|
 |ℹ️ BIOS|F24a|
-|⚙️ Processador|Intel Core i7-8565U|
+|⚙️ Processador|Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz|
 |🔩 Memory|2x8Gb DDR4 2400Mhz [16Gb RAM]|
 |🎮 iGPU|Intel(R) UHD Graphics 620|
 |🎧 Audio Codec|Realtek ALC236|
