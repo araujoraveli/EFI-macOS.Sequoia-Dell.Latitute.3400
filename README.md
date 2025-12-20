@@ -23,7 +23,7 @@
 ## Hackintosh Specifications
 
 | Item | Description |
-| :---: | --- |
+| - | - |
 | 💻 Type | Notebook |
 | 🖥️ Vendor / Model | Dell Latitude 3400 |
 | ℹ️ BIOS | F24 |
