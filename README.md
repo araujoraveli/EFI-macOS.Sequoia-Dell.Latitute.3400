@@ -1,4 +1,10 @@
-# Hackintosh Dell Latitude 3400 – Intel Core i7-8565U (8th Gen Whiskey Lake, UHD 620)
+<h1 align="center">Perfect Hackintosh!</h1>
+
+<p align="center">
+  Notebook Dell Latitude 3400<br>
+  Intel Core i7-8565U (8th Gen Whiskey Lake, UHD 620)
+</p>
+
 
 <img width="2361" height="1395" src="https://github.com/araujoraveli/EFI-macOS.Sequoia-Dell.Latitute.3400/blob/main/Image.png?raw=true" />
 
