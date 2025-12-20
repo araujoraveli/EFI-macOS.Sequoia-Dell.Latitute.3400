@@ -1,4 +1,4 @@
-<h1 align="center">Perfect Hackintosh!</h1>
+<h1 align="center">✨🚀 Perfect Hackintosh 🚀✨</h1>
 
 <h3 align="center">Notebook Dell Latitude 3400</h3>
 
@@ -81,11 +81,13 @@
 
 ## Notes
 
-Extremely clean setup, with no unnecessary components — only what is strictly required and fully functional.  
+**Developed on a 100% factory-original (OEM) notebook, with zero hardware modifications, showcasing the potential of a clean, stable, and carefully engineered Hackintosh.**
 
-All fine-tuning and low-level adjustments were carefully implemented through **DeviceProperties** and other sections of `config.plist`, without hacks or workarounds, strictly following official documentation and best practices.  
+An extremely clean setup, free from unnecessary components — only what is strictly required and fully functional.  
 
-The system is fast, smooth, and stable, delivering a user experience virtually indistinguishable from a real MacBook — a **true perfect Hackintosh**.
+All fine-tuning and low-level adjustments were meticulously implemented through **DeviceProperties** and other sections of `config.plist`, with no hacks or workarounds, strictly adhering to official documentation and industry best practices.  
+
+The system is fast, smooth, and rock-solid, delivering a user experience virtually indistinguishable from a real MacBook — a **true, near-perfect Hackintosh**.
 
 ---
 
