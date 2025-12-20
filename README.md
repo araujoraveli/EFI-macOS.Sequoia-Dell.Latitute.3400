@@ -1,4 +1,4 @@
-<h1 align="center">Perfect Hackintosh ✨🚀</h1>
+<h1 align="center">✨ Perfect Hackintosh ✨</h1>
 
 <h3 align="center">Notebook Dell Latitude 3400</h3>
 
@@ -40,7 +40,7 @@
 
 ---
 
-## What works full
+## What works full ✨✅
 
 - Bluetooth (Intel, 5.0)
 - WLAN (itlwm.kext + HeliPort.app)
@@ -60,14 +60,14 @@
   
 ---
 
-## What doesn't work
+## What doesn't work ⚠️
 
 - *Hibernation (not supported on Hackintosh systems)*
 - *Fingerprint reader (requires Apple T2 chip)*
 
 ---
 
-## Observations
+## Observations 🔎
 
 - **Audio codec**, according to official Dell documentation: **Realtek ALC3204**  
   *(functionally compatible with ALC236 layouts)*  
@@ -79,7 +79,7 @@
 
 ---
 
-## Notes
+## Special Notes ✨🚀
 
 **Developed on a 100% factory-original (OEM) notebook, with zero hardware modifications, showcasing the potential of a clean, stable, and carefully engineered Hackintosh.**
 
