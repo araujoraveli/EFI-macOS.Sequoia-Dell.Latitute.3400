@@ -1,6 +1,6 @@
 # Hackintosh Dell Latitude 3400 – Intel Core i7-8565U (8th Gen Whiskey Lake, UHD 620)
 
-<img width="2361" height="1395" src="https://github.com/araujoraveli/EFI-macOS.Sequoia-Dell.Latitude.3400/blob/main/Image.png?raw=true" />
+<img width="2361" height="1395" src="https://github.com/araujoraveli/EFI-macOS.Sequoia-Dell.Latitute.3400/blob/main/Image.png?raw=true" />
 
 ## Basic Information
 
