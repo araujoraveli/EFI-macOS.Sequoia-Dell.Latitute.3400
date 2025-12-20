@@ -1,4 +1,4 @@
-<h1 align="center">✨🚀 Perfect Hackintosh 🚀✨</h1>
+<h1 align="center">Perfect Hackintosh ✨🚀</h1>
 
 <h3 align="center">Notebook Dell Latitude 3400</h3>
 
