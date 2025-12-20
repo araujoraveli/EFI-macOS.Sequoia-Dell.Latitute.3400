@@ -35,10 +35,12 @@
 | ⌨️ Keyboard | Dell PS/2 Keyboard |
 | 💾 Storage | Kingston SA400S37 480 GB (SATA III) |
 | 🧬 SMBIOS | MacBookPro15,2 |
+| 🔔 Boot Chime | Enabled |
+| 🔀 ShowPicker | Enabled, boot timeout 5 seconds |
 
 ---
 
-## What works
+## What works full
 
 - Bluetooth (Intel, 5.0)
 - WLAN (itlwm.kext + HeliPort.app)
@@ -51,10 +53,11 @@
 - Audio (internal speakers and microphone)
 - Combo audio jack (cold plug and hot plug)
 - Webcam (720p)
-- Sleep / Wake
+- Sleep / Wake / Lid
 - Brightness control keys  
   *(Fn+S / Fn+B as alternative, F11 / F12 also working)*
-
+- All media function keys (F1–F12)
+  
 ---
 
 ## What doesn't work
@@ -64,11 +67,25 @@
 
 ---
 
+## Observations
+
+- **Audio codec**, according to official Dell documentation: **Realtek ALC3204**  
+  *(functionally compatible with ALC236 layouts)*  
+- **Wireless card**, according to Intel board documentation: **PCIe 9462NGW / CNVi**
+- **SD card reader**: mapped as internal USB device
+- **Bluetooth**: mapped as internal USB device
+- **Fingerprint reader**: mapped as internal USB device to avoid system error logs  
+  *(non-functional, as fingerprint readers are not supported on Hackintosh systems)*
+
+---
+
 ## Notes
 
-- **Audio codec** according to official Dell documentation: **Realtek ALC3204**  
-  *(functionally compatible with ALC236 layouts)*  
-- **Wireless card** according to Intel board ticket: **PCIe 9462NGW / CNVi**
+Extremely clean setup, with no unnecessary components — only what is strictly required and fully functional.  
+
+All fine-tuning and low-level adjustments were carefully implemented through **DeviceProperties** and other sections of `config.plist`, without hacks or workarounds, strictly following official documentation and best practices.  
+
+The system is fast, smooth, and stable, delivering a user experience virtually indistinguishable from a real MacBook — a **true perfect Hackintosh**.
 
 ---
 
