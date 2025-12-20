@@ -26,7 +26,7 @@
 | - | - |
 | 💻 Type | Notebook |
 | 🖥️ Vendor / Model | Dell Latitude 3400 |
-| ℹ️ BIOS | F24 |
+| ℹ️ BIOS | v1.39.0 |
 | ⚙️ Processor | Intel® Core™ i7-8565U (8th Gen Whiskey Lake) |
 | 🔩 Memory | 2×8 GB DDR4 2400 MHz (16 GB RAM) |
 | 🎮 iGPU | Intel® UHD Graphics 620 (Vendor ID: 0x8086, Device ID: 0x3E9B) |
