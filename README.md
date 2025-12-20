@@ -8,7 +8,9 @@
 
 
 
+
 <img width="2361" height="1395" src="https://github.com/araujoraveli/EFI-macOS.Sequoia-Dell.Latitute.3400/blob/main/Image.png?raw=true" />
+
 
 ## Basic Information
 
@@ -21,7 +23,7 @@
 ## Hackintosh Specifications
 
 | Item | Description |
-|-----|:-----------:|
+| :---: | --- |
 | 💻 Type | Notebook |
 | 🖥️ Vendor / Model | Dell Latitude 3400 |
 | ℹ️ BIOS | F24 |
@@ -71,7 +73,7 @@
 
 - **Audio codec**, according to official Dell documentation: **Realtek ALC3204**  
   *(functionally compatible with ALC236 layouts)*  
-- **Wireless card**, according to Intel board documentation: **PCIe 9462NGW / CNVi**
+- **Wireless card**: Identified via physical label on the Intel module — **PCIe 9462NGW (CNVi)**
 - **SD card reader**: mapped as internal USB device
 - **Bluetooth**: mapped as internal USB device
 - **Fingerprint reader**: mapped as internal USB device to avoid system error logs  
